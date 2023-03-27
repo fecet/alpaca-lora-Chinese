@@ -1,6 +1,6 @@
 # Chinese-alpaca-lora
 
-An attempt to replica alpaca-lora in Chinese
+An attempt to replicate alpaca-lora in Chinese
 
 # What's new
 
